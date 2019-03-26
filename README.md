@@ -1,13 +1,13 @@
-#NoHomo
+# NoHomo
 
 Knowledge base and GUI for airport and flight management in SWI-Prolog ;-)
 
-###Airports
+### Airports
 
 
-###Flights
+### Flights
 
 
-###Path querying
+### Path querying
 
 
